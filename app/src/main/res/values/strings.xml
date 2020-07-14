@@ -1,3 +1,21 @@
 <resources>
-    <string name="app_name">HW341</string>
+    <string name="app_name">Homework 3.4.1</string>
+    <string name="ok">Select</string>
+    <string name="color_select">Select color theme</string>
+    <string name="language_select">Select language</string>
+
+    <string-array name="languages">
+        <item>English</item>
+        <item>Русский</item>
+    </string-array>
+
+    <string-array name="themes">
+        <item>black</item>
+        <item>green</item>
+        <item>blue</item>
+    </string-array>
+
+    <string name="info">Tegucigalpa is the capital city of Honduras. Set in a central valley surrounded by mountains, it’s known for its well-preserved Spanish colonial architecture.</string>
+
+
 </resources>
